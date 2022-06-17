@@ -31,3 +31,7 @@ this.repository.query(
   [first_name, last_name]
 );
 ```
+
+## Database Model
+
+<img src=".github/uml_model.png" alt="Database Model" width="444px">
